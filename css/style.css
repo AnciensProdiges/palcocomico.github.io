@@ -1,0 +1,403 @@
+
+.caption {
+    position: relative;
+    left: 0;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+}
+
+.caption span.square {
+    background-color: rgba(57, 65, 198,1);
+    color: white;
+    padding: 18px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+#topnav {
+   background-color:white;
+    overflow: hidden;
+}
+
+#topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#topnav a:hover {
+  color: rgba(57, 65, 198,1);
+}
+
+#topnav a.active {
+    color: rgba(57, 65, 198,1);
+     font-weight: bolder;
+     text-transform: uppercase;
+}
+
+.topnav-right {
+  float: right;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+body, html {
+  height: 100%;
+}
+
+.parallax1 {
+  /* The image used */
+  background-image: url('../img/hero.jpg');
+  position: relative;
+
+
+  /* Full height */
+height: 90%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 {
+  /* The image used */
+  background-image: url('../img/alt.jpg');
+  position: relative;
+
+
+  /* Full height */
+  height: 250px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax3 {
+  /* The image used */
+  background-image: url('../img/ciri.jpg');
+  position: relative;
+
+
+  /* Full height */
+  height: 250px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax4 {
+  /* The image used */
+  background-image: url('../img/hero.jpg');
+  position: relative;
+
+
+  /* Full height */
+height: 250px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#oggiinscena {
+  background-color:rgba(57, 65, 198,1); 
+  padding: 1% 1% 4% 1%;
+}
+
+.cartellone{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.5%;
+   border-radius:10px;
+   text-align: center;
+   box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+.adesivo {
+  position: absolute;
+  top: 20px;
+  right: 5px;
+  transform: rotate(20deg);
+  font-size:1.5vw;
+}
+.adesivo2 {
+  position: absolute;
+  transform: rotate(20deg);
+  font-size:1.5vw;
+}
+
+#presentazione {
+  background-color:rgba(57, 65, 198,1); 
+  padding: 1% 1% 4% 1%;
+}
+
+.cornice {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    border: 1.5px solid goldenrod;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+#prossimamente {
+    background-color:rgba(57, 65, 198,1); 
+    padding: 1% 1% 4% 1%;
+
+}
+
+#crew {
+    background-color:rgba(57, 65, 198,1); 
+    padding: 1% 1% 4% 1%;
+
+}
+
+#contatti {
+  background-color:rgba(57, 65, 198,1); 
+  padding: 1% 1% 4% 1%;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: masonry;
+
+}
+
+.modalcontainer {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: masonry;
+  
+}
+
+.card{
+   margin: 1%;
+   border-radius:10px;
+   text-align: center;
+   box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+.velo{
+  padding: 1%;
+  background-color:rgba(57, 65, 198,0.5);
+  border-radius: 10px;
+}
+
+.franco{
+    max-width: 80%;
+    border-radius: 10px;
+    margin: 0 auto;
+    box-shadow: 0 0 11px rgba(0,0,0,.2);
+}
+
+.bollo{
+    width: 95%;
+    border-radius: 10px;
+     margin: 0 auto;
+     margin-top: 2px;
+     margin-bottom: 2px;
+    box-shadow: 0 0 11px rgba(0,0,0,.2);
+}
+
+.card-title{
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+.card-body{
+    width: 95%;
+    text-align: center;
+     margin: 0 auto;
+     margin-top: 2px;
+     margin-bottom: 2px;
+}
+
+.locModal{
+  max-width: 95%;
+  min-width: 50%;
+}
+
+
+blockquote{
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 50px;
+  margin-right: 40px;
+  text-align: left;
+}
+
+.ensema {
+}
+.modal-header.ensema {background-color: mediumseagreen; border: 1.5px solid mediumseagreen; color: white;}
+.modal-body.ensema {color: black;}
+.modal-footer.ensema {background-color: mediumseagreen; border: 1.5px solid mediumseagreen; color: white;}
+.cartellone.ensema {background-color: mediumseagreen; border: 1.5px solid mediumseagreen;}
+.card.ensema {background-color: mediumseagreen; border: 1.5px solid mediumseagreen;}
+a.ensema:link {color:springgreen;text-decoration:none;}
+a.ensema:visited {color:mediumseagreen;text-decoration:underline;}
+a.ensema:hover {color:white;text-shadow:0 0 3px mediumseagreen;text-decoration:none;}
+
+
+.cirib {
+}
+.modal-header.cirib {background-color: darkorange; border: 1.5px solid darkorange; color: white;}
+.modal-body.cirib {color: black;}
+.modal-footer.cirib {background-color: darkorange; border: 1.5px solid darkorange; color: white;}
+.cartellone.cirib {background-color: darkorange; border: 1.5px solid darkorange;}
+.card.cirib {background-color: darkorange; border: 1.5px solid darkorange;}
+a.cirib:link {color:darkorange;text-decoration:none;}
+a.cirib:visited {color:darkorange;text-decoration:underline;}
+a.cirib:hover {color:white;text-shadow:0 0 3px darkorange;text-decoration:none;}
+
+.ridom {
+}
+.modal-header.ridom {background-color: crimson; border: 1.5px solid crimson;color: white;}
+.modal-body.ridom {color: black;}
+.modal-footer.ridom {background-color: crimson; border: 1.5px solid crimson;color: white;}
+.cartellone.ridom {background-color: crimson; border: 1.5px solid crimson;}
+.card.ridom {background-color: crimson; border: 1.5px solid crimson;}
+a.ridom:link {color:crimson;text-decoration:none;}
+a.ridom:visited {color:crimson;text-decoration:underline;}
+a.ridom:hover {color:white;text-shadow:0 0 3px crimson;text-decoration:none;}
+
+
+.istri { 
+}
+.modal-header.istri {background-color: mediumpurple; border: 1.5px solid mediumpurple;color: white;}
+.modal-body.istri {color: black;}
+.modal-footer.istri {background-color: mediumpurple; border: 1.5px solid mediumpurple;color: white;}
+.cartellone.istri {background-color: mediumpurple; border: 1.5px solid mediumpurple;}
+.card.istri {background-color: mediumpurple; border: 1.5px solid mediumpurple;}
+a.istri:link {color:mediumpurple;text-decoration:none;}
+a.istri:visited {color:mediumpurple;text-decoration:underline;}
+a.istri:hover {color:white;text-shadow:0 0 3px mediumpurple;text-decoration:none;}
+
+
+.ognuno {
+}
+.modal-header.ognuno {background-color: darkgrey; border: 1.5px solid darkgrey;color: white;}
+.modal-body.ognuno {color: black;}
+.modal-footer.ognuno {background-color: darkgrey; border: 1.5px solid darkgrey;color: white;}
+.cartellone.ognuno {background-color: darkgrey; border: 1.5px solid darkgrey;}
+.card.ognuno {background-color: darkgrey; border: 1.5px solid darkgrey;}
+a.ognuno:link {color:silver;text-decoration:none;}
+a.ognuno:visited {color:silver;text-decoration:underline;}
+a.ognuno:hover {color:white;text-shadow:0 0 3px silver;text-decoration:none;}
+
+.ida {  
+}
+.modal-header.ida {background-color: skyblue; border: 1.5px solid skyblue;color: white;}
+.modal-body.ida {color: black;}
+.modal-footer.ida {background-color: skyblue; border: 1.5px solid skyblue;color: white; }
+.cartellone.ida {background-color: skyblue; border: 1.5px solid skyblue;}
+.card.ida {background-color: skyblue; border: 1.5px solid skyblue;}
+a.ida:link {color:skyblue;text-decoration:none;}
+a.ida:visited {color:skyblue;text-decoration:underline;}
+a.ida:hover {color:white;text-shadow:0 0 3px skyblue;text-decoration:none;}
+
+
+
+
+#spettacoli {
+  background-color:rgba(57, 65, 198,1); 
+  padding: 2% 1% 4% 1%;
+}
+
+#passato {
+  background-color:rgba(57, 65, 198,1); 
+  padding: 2% 1% 4% 1%;
+}
+
+.btn {
+   text-align: center;
+   padding: 0px;
+   font-size: medium ;
+   text-transform: none;
+}
+
+.gallery{
+  width:95% ;
+  height: auto;
+  margin: 5px ;
+  border-radius: 10px;
+  box-shadow: 0 0 11px rgba(0,0,0,.2);
+}
+
+
+footer {
+    background-color:rgba(57, 65, 198,1); 
+    padding: 1% 1% 1% 1%;
+
+}
+
+
+@media screen and (max-width: 574px) {
+
+#topnav h1{
+  font-size: small;
+}
+#topnav a {
+  padding: 10px;
+  font-size: 10px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: masonry;
+}
+
+.modalcontainer {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: masonry;
+  
+}
+
+.modal-body .row {
+  display: block;
+}
+
+ .gallery {
+  max-width: 300px;
+  height: auto;
+}
+
+}
+
+@media screen and (min-width: 575px) and (max-width: 1200px) {  }
+
+@media screen and (min-width:1201px) {  }

@@ -1,0 +1,70 @@
+var persone = [
+   {
+     "name": "Ferdinanda Onofrio",
+     "pic": "img/crew/ferdinanda.jpg",
+     "ruolo": "Fondatrice, direttrice artistica, attrice e regista"
+   },{
+     "name": "Achille Marai",
+     "pic": "img/crew/achille.jpg",
+     "ruolo":"Fondatore, organizzatore, attore e tecnico di palcoscenico"
+   },{
+     "name": "Fulvia Marai",
+     "pic": "img/crew/fufi.jpg",
+     "ruolo":"Collaboratrice, drammaturga e aiuto-regista"
+   },{
+     "name": "Velise Bonfante",
+     "pic": "img/crew/velise.jpg",
+     "ruolo":"Drammaturga e poetessa"
+   },{
+     "name": "Giuseppina Sacco",
+     "pic": "img/crew/giusi.jpg",
+     "ruolo":"Attrice"
+   },{
+     "name": "Gledis Crescini",
+     "pic": "img/crew/gledis.jpg",
+     "ruolo":"Attrice"
+   },{
+     "name": "Ermanno Martinelli",
+     "pic": "img/crew/ermanno.jpg",
+     "ruolo":"Attore"
+   },{
+     "name": "Fiorella Albiero",
+     "pic": "img/crew/fiorella.jpg",
+     "ruolo":"attrice"
+   },{
+     "name": "Elena Biscaccianti",
+     "pic": "img/crew/elena.jpg",
+     "ruolo":"Attrice"
+   },{
+     "name": "Annarita Sperotto",
+     "pic": "img/crew/annarita.jpg",
+     "ruolo":"Attrice"
+   },{
+     "name": "Antonio Righetti",
+     "pic": "img/crew/antonio.jpg",
+     "ruolo":"Attore"
+   },{
+     "name": "Annamaria Melda",
+     "pic": "img/crew/annamaria.jpg",
+     "ruolo":"attrice"
+   },{
+     "name": "Valeria Bisoni",
+     "pic": "img/crew/valeria.jpg",
+     "ruolo":"Attrice"
+   },{
+     "name": "Marina Rovizzi",
+     "pic": "img/crew/marina.jpg",
+     "ruolo":"Fotografa e collaboratrice"
+   },{
+     "name": "Enzo Vicari",
+     "pic": "img/crew/enzo.jpg",
+     "ruolo":"Tecnico di palcoscenico"
+   },{
+     "name": "Franco Bonatti",
+     "pic": "img/crew/franco.jpg",
+     "ruolo":"Tecnico di palcoscenico"
+   },{
+     "name": "Adolfo Civolani",
+     "pic": "img/crew/civocolore.jpg",
+     "ruolo":"Tecnico di palcoscenico"
+   }];
