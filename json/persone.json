@@ -9,7 +9,7 @@ var persone = [
      "ruolo":"Fondatore, organizzatore, attore e tecnico di palcoscenico"
    },{
      "name": "Fulvia Marai",
-     "pic": "img/crew/fufi.jpg",
+     "pic": "img/crew/Fufi.jpg",
      "ruolo":"Collaboratrice, drammaturga e aiuto-regista"
    },{
      "name": "Velise Bonfante",
