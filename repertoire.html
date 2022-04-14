@@ -20,14 +20,15 @@
 		<div id="topnav">
   	<a href="index.html"><img src="img/logoNero.png" alt="Logo" style="height:34px;"> </a>
   	<a href="index.html"><h2>PALCOCOMICO</h2></a>
-  		<div class="topnav-right">
-    		<a href="index.html">Home</a>
-    		<a class="active" href="repertoire.html">Repertorio</a>
-    		<a href="contact.html">Contatti</a>
-  		</div>
+        <div class="topnav-right">
+            <a href="index.html">Home</a>
+            <a class="active" href="repertoire.html">Repertorio</a>
+            <a href="cast.html">Chi siamo</a>
+            <a href="contact.html">Contatti</a>
+        </div>
 	</div>
 
- <div id="spettacoli" class="text-light text-center">
+ <div id="repertorio" class="text-light text-center">
 
  	<br>
     <h3 class="text-white">Il Nostro repertorio</h3>
@@ -45,7 +46,6 @@
 
          document.write ("<div id='"+obj.id+"' class='card text-white btn' style='background-color:"+obj.colore+" 'data-bs-toggle='modal' data-bs-target='#my"+obj.id+"'> <div class='modal fade' id='my"+obj.id+"'><div class='modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable'><div class='modal-content'><div class='modal-header "+obj.id+"'><h4 class='modal-title' style='color:white;'>"+obj.titolo+"</h4><button type='button' class='btn' data-bs-dismiss='modal'><img src='img/logoBianco.png' style='height:35px;'></button></div><div class='modal-body "+obj.id+"'><i style='font-size:small;'>"+obj.sinossi+"</i><br><br><hr><div class='row'><div class='col' style='margin-top:auto;margin-bottom:auto;'><img class='locModal' src='"+obj.back+"' alt='locandina dello spettacolo'></div><div class='col'><br><div class='cornice'><br><h3>"+obj.titolo+"</h3><br><p>"+obj.descr1+"</p><p>"+ obj.descr2 +"</p><p>"+obj.descr3 +"</p></div></div></div><hr><div class='row'><div class='col'style='margin-top:auto;margin-bottom:auto;'><br><div class='cornice'><dl class='text-right' ><dt style='color:"+obj.colore+";'>Durata e genere</dt><dd>"+obj.genere+", "+obj.durata +"</dd><dt style='color:"+obj.colore+";'>Interpreti</dt><dd>"+ obj.interpreti +"</dd> <dt style='color:"+obj.colore+";'>Regia </dt><dd>"+ obj.regia +"</dd><dt style='color:"+obj.colore+";'>Autore</dt><dd>"+ obj.autore +"</dd>"+ obj.speciale +"<small><dt style='color:"+obj.colore+";'>Tecnico</dt><dd>"+ obj.tecnico +"</dd></small></dl></div><br></div><div class='col'><br><blockquote class='blockquote'style='border-left:3px solid "+obj.colore+"; padding-left:10px;'><span style='font-size:small;'>"+obj.citaz+"</span></blockquote></div></div><hr><div class='modalcontainer'><img class='gallery' src='"+obj.car1+"'><img class='gallery' src='"+obj.car2+"'><img class='gallery' src='"+obj.car3+"'><img class='gallery' src='"+obj.car4+"'></div></div><div class='modal-footer "+obj.id+"'><button type='button' class='btn' data-bs-dismiss='modal' style='color:white'> Chiudi </button></div></div></div></div><img class='bollo' src='"+obj.pic+"'class='card-img-top' alt='locandina'><div class='card-img-overlay h-20 d-flex flex-column justify-content-center'>"+obj.dispo+"</div><div class='card-body'><h5 class='card-title'>"+obj.titolo+"</h5></div></div>");}
    </script>
-
 
 </div>
 

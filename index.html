@@ -23,6 +23,7 @@
   		<div class="topnav-right">
     		<a class="active" href="index.html">Home</a>
     		<a href="repertoire.html">Repertorio</a>
+            <a href="cast.html">Chi siamo</a>
     		<a href="contact.html">Contatti</a>
   		</div>
 	</div>
@@ -54,7 +55,7 @@
                     if (yesterday > dateJason) {    
                     document.write(""); 
                     } else if (todayDate < dateJason){    
-                    document.write("<div class='card "+obj.link+"'><a class='"+obj.link+"'href='repertoire.html#"+obj.link+"'><img class='bollo card-img-top' src='"+obj.pic+"' alt='locandina dello spettacolo'><div class='card-img-overlay'><span class='badge rounded-pill bg-warning adesivo'>"+obj.spec+"</span></div></a><div class='card-body velo'><h4 class='card-title'><a href='repertoire.html#"+obj.link+"'class='"+obj.link+"'>"+obj.titolo+"</strong></a></h4><p class='card-text text-light small'>"+obj.giorno+" "+obj.mese+" "+obj.anno+",<br><i> alle ore "+obj.orario+"</i><br>"+obj.presso+"<br><i>"+obj.indirizzo+"</i><br>"+obj.città+"</p></div></div>");  
+                    document.write("<div class='card "+obj.link+"'><a class='"+obj.link+"'href='schedeSpettacolo.html#my"+obj.link+"'><img class='bollo card-img-top' src='"+obj.pic+"' alt='locandina dello spettacolo'><div class='card-img-overlay'><span class='badge rounded-pill bg-warning adesivo'>"+obj.spec+"</span></div></a><div class='card-body velo'><h4 class='card-title'><a href='schedeSpettacolo.html#my"+obj.link+"'class='"+obj.link+"'>"+obj.titolo+"</strong></a></h4><p class='card-text text-light small'>"+obj.giorno+" "+obj.mese+" "+obj.anno+",<br><i> alle ore "+obj.orario+"</i><br>"+obj.presso+"<br><i>"+obj.indirizzo+"</i><br>"+obj.città+"</p></div></div>");  
                          } else if (todayDate > dateJason){    
                         document.write("");         
                         } else {    

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+            <script src="https://kit.fontawesome.com/b33927a4b1.js" crossorigin="anonymous"></script>
+            <link rel="stylesheet" href="css/bootstrap.min.css">
+            <link rel="stylesheet" href="css/style.css">
+
+	<title>Palcocomico</title>
+</head>
+
+<body>
+	<div class="parallax4">
+		<div class="caption">
+			<h1><span class="square">PALCOCOMICO</span></h1>
+		</div>
+	</div>
+
+		<div id="topnav">
+  	<a href="index.html"><img src="img/logoNero.png" alt="Logo" style="height:34px;"> </a>
+  	<a href="index.html"><h2>PALCOCOMICO</h2></a>
+        <div class="topnav-right">
+            <a href="index.html">Home</a>
+            <a class="active" href="repertoire.html">Repertorio</a>
+            <a href="cast.html">Chi siamo</a>
+            <a href="contact.html">Contatti</a>
+        </div>
+	</div>
+
+ <div id="spettacoli" class="text-light text-center">
+
+ 	<br>
+    <h3 class="text-white">Schede degli spettacoli</h3>
+<br>
+
+
+  <script type="text/javascript"  src="json/repertorio.json"></script>
+
+   <script>
+
+   for (var i = 0; i < repertorio.length; i++) {
+
+       var obj = repertorio[i];
+
+         document.write ("<div id='my"+obj.id+"'><div class='modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable'><div class='modal-content'><div class='modal-header "+obj.id+"'><a href='repertoire.html' style='text-decoration:none;'><h4 class='modal-title' style='color:white;'>"+obj.titolo+"</h4></a><a href='repertoire.html'><button type='button' class='btn'><img src='img/logoBianco.png' style='height:35px;'></button></a></div><div class='modal-body "+obj.id+"'><i style='font-size:small;'>"+obj.sinossi+"</i><br><br><hr><div class='row'><div class='col' style='margin-top:auto;margin-bottom:auto;'><img class='locModal' src='"+obj.back+"' alt='locandina dello spettacolo'></div><div class='col'><br><div class='cornice'><br><h3>"+obj.titolo+"</h3><br><p>"+obj.descr1+"</p><p>"+ obj.descr2 +"</p><p>"+obj.descr3 +"</p></div></div></div><hr><div class='row'><div class='col'style='margin-top:auto;margin-bottom:auto;'><br><div class='cornice'><dl class='text-right' ><dt style='color:"+obj.colore+";'>Durata e genere</dt><dd>"+obj.genere+", "+obj.durata +"</dd><dt style='color:"+obj.colore+";'>Interpreti</dt><dd>"+ obj.interpreti +"</dd> <dt style='color:"+obj.colore+";'>Regia </dt><dd>"+ obj.regia +"</dd><dt style='color:"+obj.colore+";'>Autore</dt><dd>"+ obj.autore +"</dd>"+ obj.speciale +"<small><dt style='color:"+obj.colore+";'>Tecnico</dt><dd>"+ obj.tecnico +"</dd></small></dl></div><br></div><div class='col'><br><blockquote class='blockquote'style='border-left:3px solid "+obj.colore+"; padding-left:10px;'><span style='font-size:small;'>"+obj.citaz+"</span></blockquote></div></div><hr><div class='modalcontainer'><img class='gallery' src='"+obj.car1+"'><img class='gallery' src='"+obj.car2+"'><img class='gallery' src='"+obj.car3+"'><img class='gallery' src='"+obj.car4+"'></div></div><div class='modal-footer "+obj.id+"'><a href='repertoire.html'><button type='button' class='btn' style='color:white'>Chiudi </button></a></div></div></div></div>");}
+   </script>
+
+
+</div>
+
+
+</div>
+
+
+
+                <div class="parallax3"></div>        
+
+
+<script>
+window.onscroll = function() {myFunction()};
+var navbar = document.getElementById("topnav");
+var sticky = navbar.offsetTop;
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
+</script>
+
+
+                <footer class="text-white">
+                    <hr>
+                    <P class="text-center"><b>PALCOCOMICO</b> - Desenzano del Garda (Br)</P>
+                    <p class="text-center"><i class="fas fa-lg fa-at"></i> E-mail:Palcocomico@gmail.com <i class="fas fa-lg fa-phone-square-alt"></i> Telephone:+39 3487318746 </p>
+                    <p class="small" style="text-align:right;">Sito creato da Fulvia Marai (2022) </p>
+                </footer>
+
+
+
+
+
+                    <!-- JavaScript Bundle with Popper -->
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+                <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous" async></script>
+	
+</body>
+
+</html>
