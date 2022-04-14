@@ -185,7 +185,7 @@ height: 250px;
 
 #contatti {
   background-color:rgba(57, 65, 198,1); 
-  padding: 1% 1% 4% 1%;
+  padding: 1% 1% 5% 1%;
 }
 
 .container {
@@ -332,6 +332,11 @@ a.ida:hover {color:white;text-shadow:0 0 3px skyblue;text-decoration:none;}
 
 
 #spettacoli {
+  background-color:rgba(57, 65, 198,1); 
+  padding: 2% 1% 4% 1%;
+}
+
+#repertorio {
   background-color:rgba(57, 65, 198,1); 
   padding: 2% 1% 4% 1%;
 }

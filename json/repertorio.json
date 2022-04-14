@@ -94,7 +94,7 @@ var repertorio = [
    },{
    "id":"ida",
    "titolo":"Il viaggio di Ida",
-   "pic":"img/spettacoli/ida/ida.jpg",
+   "pic":"img/spettacoli/ida/ilviaggioIN.png",
    "car1":"img/spettacoli/ida/ida1.jpg",
    "car2":"img/spettacoli/ida/ida2.jpg",
    "car3":"img/spettacoli/ida/ida3.jpg",
@@ -117,12 +117,12 @@ var repertorio = [
  },{
    "id":"ognuno",
    "titolo":"Ognuno gode nelle lenzuola che trova",
-   "pic":"img/spettacoli/ognuno/ognuno.jpg",
+   "pic":"img/spettacoli/ognuno/LOCognunoIN.png",
    "car1":"img/spettacoli/ognuno/ognuno1.jpg",
    "car2":"img/spettacoli/ognuno/ognuno2.jpg",
    "car3":"img/spettacoli/ognuno/ognuno3.jpg",
    "car4":"img/spettacoli/ognuno/ognuno4.jpg",
-   "back":"img/ognuno.jpg",
+   "back":"img/spettacoli/ognuno/LOC_sino_ognuno.png",
    "sinossi":"Artemisia è colta, manierata, vagamente bohemienne. Babeth invece è una donna dal temperamento burrascoso, pessimista e senza peli sulla lingua. Non potrebbero essere più diverse! Per scherzo del destino son obbligate a trascorrere tanto, troppo tempo assieme..",
    "descr1":"Pièce comica per due attrici, creata elaborando diversi pezzi di teatro francese contemporaneo e fondendoli in una unica,originale narrazione.",
    "descr2":"La commedia, un frizzante botta e risposta tra i due personaggi, tratta di come due persone dai caratteri e vissuto molto diversi riescano a far fronte ad una bizzarra quanto ineluttabile “convivenza forzata”. Ignorando i tentativi di Artemisia di instaurare un dialogo, Babeth preferiebbe che la sua molesta vicina la lasciasse riposare.",

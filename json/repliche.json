@@ -797,26 +797,7 @@ var repliche = [
     "annul":"false",
      "causa":"null",
      "spec":""
- },{
-     "id":"100",
-     "titolo": "Ognuno gode nelle lenzuola che trova",
-     "pic": "img/spettacoli/ognuno/ognuno.jpg",
-     "data":"2022,4,13",
-     "giorno": "00",
-     "mese":"mesecheneso",
-     "anno":"2017",
-     "orario":"20.30",
-     "presso":"Sala eventi Associazione La Zöbia",
-     "indirizzo":"Via Einaudi, 22",
-     "città":"Sirmione , BS",
-     "CAP":"25019",
-     "lat":"45.461417782309105",
-     "long":"10.606426518619523",
-     "link":"ognuno",
-    "annul":"false",
-     "causa":"null",
-     "spec":"prova locandina"
-   } 
+ }
 
 ];
 
