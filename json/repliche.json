@@ -760,7 +760,7 @@ var repliche = [
      "causa":"null",
      "spec":""    
  },{
-     "id":"42",
+     "id":"41",
      "titolo": "Ensèma en alegria",
      "pic": "img/spettacoli/ensema/LOCEnseIN.png",
      "data":"2022,8,26",
@@ -770,7 +770,7 @@ var repliche = [
      "orario":"21.00",
      "presso":"",
      "indirizzo":"",
-     "città":"Padenghe, BS",
+     "città":"",
      "CAP":"25080",
      "lat":"45.55257307295046",
      "long":"10.508749566238",
@@ -779,7 +779,7 @@ var repliche = [
      "causa":"null",
      "spec":"debutto!"
  },{
-     "id":"43",
+     "id":"42",
      "titolo": "Ridóm en dialèt",
      "pic": "img/spettacoli/ridom/LOCRidoIN.jpg",
      "data":"2022,6,12",
@@ -793,6 +793,25 @@ var repliche = [
      "CAP":"25080",
      "lat":"45.55257307295046",
      "long":"10.508749566238",
+      "link":"ridom",
+    "annul":"false",
+     "causa":"null",
+     "spec":""
+ },{
+     "id":"43",
+     "titolo": "Ridóm en dialèt",
+     "pic": "img/spettacoli/ridom/LOCRidoIN.jpg",
+     "data":"2022,7,1",
+     "giorno": "1",
+     "mese":"luglio",
+     "anno":"2022",
+     "orario":"20.30",
+     "presso":"Teatro all'aperto Due Pini",
+     "indirizzo":"Via Maria Montessori",
+     "città":"Salò, BS",
+     "CAP":"25087",
+     "lat":"45.60286",
+     "long":"10.515638",
       "link":"ridom",
     "annul":"false",
      "causa":"null",
