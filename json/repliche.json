@@ -763,7 +763,7 @@ var repliche = [
      "id":"41",
      "titolo": "Ensèma en alegria",
      "pic": "img/spettacoli/ensema/LOCEnseIN.png",
-     "data":"2022,8,26",
+     "data":"2022,10,29",
      "giorno": "in",
      "mese":"programmazione",
      "anno":"",
@@ -816,6 +816,25 @@ var repliche = [
     "annul":"false",
      "causa":"null",
      "spec":""
+ },{    
+     "id":"44",
+     "titolo": "Istrigonia",
+    "pic":"img/spettacoli/istrigo/LOCIstriIN.png",
+     "data":"2022,10,30",
+     "giorno": "",
+     "mese":"in programmazione",
+     "anno":"",
+     "orario":"21.00",
+     "presso":"",
+     "indirizzo":"",
+     "città":"",
+     "CAP":"",
+     "lat":"45.40225277102175",
+     "long":"10.628262539686343",
+      "link":"istri",
+    "annul":"false",
+     "causa":"null",
+     "spec":""  
  }
 
 ];
