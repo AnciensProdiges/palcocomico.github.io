@@ -836,6 +836,25 @@ var repliche = [
     "annul":"false",
      "causa":"null",
      "spec":""  
+ },{    
+     "id":"45",
+     "titolo": "Istrigonia",
+    "pic":"img/IstrigoniaLoc.png",
+     "data":"2023,1,15",
+     "giorno": "15",
+     "mese":"gennaio",
+     "anno":"2023",
+     "orario":"16.00",
+     "presso":"Teatro San Carlo",
+     "indirizzo":"Via delle Libertà 3",
+     "città":"Asola, MN",
+     "CAP":"46041",
+     "lat":"45.48460182310109",
+     "long":"10.380536083965197",
+      "link":"istri",
+    "annul":"false",
+     "causa":"null",
+     "spec":""  
  }
 
 ];
