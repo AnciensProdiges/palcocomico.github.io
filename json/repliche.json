@@ -839,7 +839,7 @@ var repliche = [
  },{    
      "id":"45",
      "titolo": "Istrigonia",
-    "pic":"img/LOCIstriIN.png",
+     "pic":"img/spettacoli/istrigo/LOCIstriIN.png",
      "data":"2023,1,15",
      "giorno": "15",
      "mese":"gennaio",
