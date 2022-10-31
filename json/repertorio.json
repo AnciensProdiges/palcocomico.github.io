@@ -1,5 +1,5 @@
 var repertorio = [
-   {
+    {
     "id":"ensema",
    "titolo":"Ensèma en alegria",
    "pic":"img/spettacoli/ensema/LOCEnseIN.png",
@@ -21,7 +21,7 @@ var repertorio = [
    "tecnico":"Enzo Vicari",
    "colore":"green",
    "speciale":"<dt style='color:mediumseagreen;'>Fotografia</dt><dd> Marina Rovizzi</dd>",
-    "dispo":"<p class='badge rounded-pill bg-info adesivo2'>in allestimento</p>",
+    "dispo":"",
    "citaz":"<span style='font-style:italic'>“Prossima programmazione. Questa pagina è da considerarsi work in progress”</span>"
    },{
    "id":"istri",
@@ -98,12 +98,12 @@ var repertorio = [
    },{
    "id":"ida",
    "titolo":"Il viaggio di Ida",
-   "pic":"img/spettacoli/ida/ilviaggioIN.png",
+   "pic":"img/spettacoli/ida/LOCIdaIN.jpg",
    "car1":"img/spettacoli/ida/ida1.jpg",
    "car2":"img/spettacoli/ida/ida2.jpg",
    "car3":"img/spettacoli/ida/ida3.jpg",
     "car4":"img/spettacoli/ida/ida4.jpg",
-   "back":"img/spettacoli/ida/il viaggio.png",
+   "back":"img/spettacoli/ida/LOC_sino_Ida.jpg",
    "sinossi":"Viaggio tra i ricordi nell’animo umano e nei sentimenti che legano madre e figlia.",
    "descr1":"Pièce teatrale che tratta di fatti realmente accaduti e di una storia compiuta nel periodo degli anni cinquanta del secolo scorso e liberamente adattata per un monologo. Non vi è una successione cronologica ma evocazione da parte della figlia ormai avanti negli anni, di episodi dolci e teneri, ma anche drammatici, attraverso piccoli flash.",
    "descr2":"L’essenza dello scritto vuole essere la dimostrazione del grande amore nei confronti della madre che, con la sua presenza/assenza, ha scavato un solco indelebile nell’infanzia della figlia. Ancora piccola e senza riferimenti, pur non comprendendo il dramma vissuto dalla madre a cui cerca di dare voce, sviluppa verso di lei un senso di protezione e di tenerezza che sfoceranno in una promessa.",
