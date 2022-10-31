@@ -328,7 +328,27 @@ a.ida:link {color:skyblue;text-decoration:none;}
 a.ida:visited {color:skyblue;text-decoration:underline;}
 a.ida:hover {color:white;text-shadow:0 0 3px skyblue;text-decoration:none;}
 
+.riultela {  
+}
+.modal-header.riultela {background-color: mediumblue; border: 1.5px solid mediumblue;color: white;}
+.modal-body.riultela {color: black;}
+.modal-footer.riultela {background-color: mediumblue; border: 1.5px solid mediumblue;color: white; }
+.cartellone.riultela {background-color: mediumblue; border: 1.5px solid mediumblue;}
+.card.riultela {background-color: mediumblue; border: 1.5px solid mediumblue;}
+a.riultela:link {color:white;text-decoration:none;}
+a.riultela:visited {color:silver;text-decoration:underline;}
+a.riultela:hover {color:white;text-shadow:0 0 3px silver;text-decoration:none;}
 
+.onirico {  
+}
+.modal-header.onirico {background-color: mediumblue; border: 1.5px solid mediumblue;color: white;}
+.modal-body.onirico {color: black;}
+.modal-footer.onirico {background-color: mediumblue; border: 1.5px solid mediumblue;color: white; }
+.cartellone.onirico {background-color: mediumblue; border: 1.5px solid mediumblue;}
+.card.onirico {background-color: mediumblue; border: 1.5px solid mediumblue;}
+a.onirico:link {color:white;text-decoration:none;}
+a.onirico:visited {color:silver;text-decoration:underline;}
+a.onirico:hover {color:white;text-shadow:0 0 3px silver;text-decoration:none;}
 
 
 #spettacoli {
