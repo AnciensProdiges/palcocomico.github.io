@@ -911,6 +911,44 @@ var repliche = [
     "annul":"false",
      "causa":"null",
      "spec":"Recitiamo anche qui!"    
+ },{
+     "id":"49",
+     "titolo": "Tre dé da pret",
+     "pic": "img/spettacoli/altro/trededapret.png",
+     "data":"2023,3,4",
+     "giorno": "4",
+     "mese":"marzo",
+     "anno":"2023",
+     "orario":"20.45",
+     "presso":"Teatro Oratorio",
+     "indirizzo":"Via Buffalora,95,BS",
+     "città":"Con <span style='color:red;'>la Compagnia de Riultela <span>",
+     "CAP":"25129",
+     "lat":"45.47146131666668",
+     "long":"9.952694455067121",
+      "link":"riultela",
+    "annul":"false",
+     "causa":"null",
+     "spec":"Recitiamo anche qui!"    
+ },{    
+     "id":"50",
+     "titolo": "Ensèma en alegria",
+    "pic":"img/spettacoli/ensema/LOCEnseIN.png",
+     "data":"2023,3,19",
+     "giorno": "19",
+     "mese":"marzo",
+     "anno":"2023",
+     "orario":"15.30",
+     "presso":"Teatro San Giovanni Evangelista",
+     "indirizzo":"Contrada San Giovanni 8",
+     "città":"Brescia",
+     "CAP":"25122",
+     "lat":"45.40225277102175",
+     "long":"10.628262539686343",
+      "link":"ensema",
+    "annul":"false",
+     "causa":"null",
+     "spec":""  
  }
 
 ];
