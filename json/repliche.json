@@ -915,11 +915,11 @@ var repliche = [
      "id":"49",
      "titolo": "Tre dé da pret",
      "pic": "img/spettacoli/altro/trededapret.png",
-     "data":"2023,3,4",
-     "giorno": "4",
+     "data":"2023,3,5",
+     "giorno": "5",
      "mese":"marzo",
      "anno":"2023",
-     "orario":"20.45",
+     "orario":"15.30",
      "presso":"Teatro Oratorio",
      "indirizzo":"Via Buffalora,95,BS",
      "città":"Con <span style='color:red;'>la Compagnia de Riultela <span>",
@@ -949,6 +949,25 @@ var repliche = [
     "annul":"false",
      "causa":"null",
      "spec":""  
+ },{    
+     "id":"51",
+      "titolo": "Gli Innamorati",
+     "pic": "img/spettacoli/altro/innamorati.jpg",
+     "data":"2023,3,18",
+     "giorno": "18",
+     "mese":"marzo",
+     "anno":"2023",
+     "orario":"21.00",
+     "presso":"",
+     "indirizzo":"Nuvolento",
+     "città":"Con <span style='color:red;'>Il Sipario Onirico <span>",
+     "CAP":"25129",
+     "lat":"45.47146131666668",
+     "long":"9.952694455067121",
+      "link":"onirico",
+    "annul":"false",
+     "causa":"null",
+     "spec":"Recitiamo anche qui!" 
  }
 
 ];
