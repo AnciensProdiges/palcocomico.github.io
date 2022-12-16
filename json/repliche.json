@@ -968,6 +968,25 @@ var repliche = [
     "annul":"false",
      "causa":"null",
      "spec":"Recitiamo anche qui!" 
+ },{    
+     "id":"52",
+     "titolo": "Ensèma en alegria",
+    "pic":"img/spettacoli/ensema/LOCEnseIN.png",
+     "data":"2023,7,22",
+     "giorno": "22",
+     "mese":"luglio",
+     "anno":"2023",
+     "orario":"20.45",
+     "presso":"Parco Comunale di Gorlago",
+     "indirizzo":"Via G.B. Caniana, BS",
+     "città":"<div class='small alert alert-success' role='alert'>(In caso di pioggia, tutti al Teatro Carisma!)</div>",
+     "CAP":"24060",
+     "lat":"45.40225277102175",
+     "long":"10.628262539686343",
+      "link":"ensema",
+    "annul":"false",
+     "causa":"",
+     "spec":""  
  }
 
 ];
