@@ -20,7 +20,7 @@ var repertorio = [
    "durata":"1 ora e 20 minuti circa",
    "tecnico":"Enzo Vicari",
    "colore":"green",
-   "speciale":"<dt style='color:mediumseagreen;'>Fotografia</dt><dd> Marina Rovizzi</dd>",
+   "speciale":"<dt style='color:green;'>Fotografia</dt><dd> Marina Rovizzi</dd>",
     "dispo":"",
    "citaz":"<span style='font-style:italic'>“Prossima programmazione. Questa pagina è da considerarsi work in progress”</span>"
    },{
