@@ -422,6 +422,15 @@ footer {
   height: auto;
 }
 
+.bollo{
+    width: 90%;
+    border-radius: 10px;
+     margin: 0 auto;
+     margin-top: 2px;
+     margin-bottom: 2px;
+    box-shadow: 0 0 11px rgba(0,0,0,.2);
+}
+
 }
 
 @media screen and (min-width: 575px) and (max-width: 1200px) {  }
