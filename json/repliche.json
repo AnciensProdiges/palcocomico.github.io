@@ -1053,10 +1053,10 @@ var repliche = [
      "mese":"marzo",
      "anno":"2023",
      "orario":"21.00",
-      "presso":"Sala Auser",
-     "indirizzo":"Via Verdi  17, Pozzolengo, BS",
+      "presso":"Sala Polivalente Pal. Laffranchi",
+     "indirizzo":"Piazza Martiri della Libertà 5, Carpenedolo, BS",
      "città":"Con <span style='color:red;'>la Compagnia de Riultela </span>",
-     "CAP":"25010",
+     "CAP":"25013",
      "lat":"45.40225277102175",
      "long":"10.628262539686343",
       "link":"riultela",
@@ -1065,7 +1065,7 @@ var repliche = [
      "spec":""    
  }
 
-];
+];     
 
 
 
