@@ -1101,6 +1101,25 @@ var repliche = [
     "annul":"false",
      "causa":"null",
      "spec":""  
+ },{    
+     "id":"59",
+     "titolo": "Ensèma en alegria",
+    "pic":"img/spettacoli/ensema/LOCEnseIN.png",
+     "data":"2023,4,16",
+     "giorno": "16",
+     "mese":"aprile",
+     "anno":"2023",
+     "orario":"16.30",
+     "presso":"Teatro dell´oratorio",
+     "indirizzo":"Via Giuseppe Garibaldi 35",
+     "città":"Capriano del Colle",
+     "CAP":"25020",
+     "lat":"45.40225277102175",
+     "long":"10.628262539686343",
+      "link":"ensema",
+    "annul":"false",
+     "causa":"null",
+     "spec":""  
  }
 
 ];     
