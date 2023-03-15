@@ -1006,6 +1006,25 @@ var repliche = [
     "annul":"false",
      "causa":"null",
      "spec":""  
+ },{    
+     "id":"60",
+     "titolo": "Ensèma en alegria",
+    "pic":"img/spettacoli/ensema/LOCEnseIN.png",
+     "data":"2023,7,21",
+     "giorno": "21",
+     "mese":"luglio",
+     "anno":"2023",
+     "orario":"21.00",
+     "presso":"Castello",
+     "indirizzo":"Piazza Umberto I, 5",
+     "città":"Soiano, BS",
+     "CAP":"25080",
+     "lat":"45.40225277102175",
+     "long":"10.628262539686343",
+      "link":"ensema",
+    "annul":"false",
+     "causa":"null",
+     "spec":""  
  }
 
 ];     
