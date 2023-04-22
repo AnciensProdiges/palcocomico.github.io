@@ -1025,7 +1025,26 @@ var repliche = [
     "annul":"false",
      "causa":"null",
      "spec":""  
- }
+ },{    
+  "id":"61",
+  "titolo": "Il Viaggio di Ida",
+  "pic": "img/spettacoli/ida/LOCIdaIN.jpg",
+  "data":"2023,5,6",
+  "giorno": "6",
+  "mese":"maggio",
+  "anno":"2023",
+  "orario":"21.00",
+  "presso":"Sala Consiliare",
+  "indirizzo":"Piazzale Roma, 12",
+  "città":"Polpenazze del Garda, BS",
+  "CAP":"25080",
+  "lat":"45.40225277102175",
+  "long":"10.628262539686343",
+   "link":"ida",
+ "annul":"false",
+  "causa":"null",
+  "spec":""  
+}
 
 ];     
 
