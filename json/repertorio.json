@@ -25,14 +25,14 @@ var repertorio = [
    "citaz":"<span style='font-style:italic'>“Prossima programmazione. Questa pagina è da considerarsi work in progress”</span>"
    },{
    "id":"istri",
-   "titolo":"Le streghe dispettose",
+   "titolo":"Un Giullare fra le Streghe",
    "pic":"img/spettacoli/istrigo/LOCIstriIN.png",
    "car1":"img/spettacoli/istrigo/istri1.jpeg",
    "car2":"img/spettacoli/istrigo/istri2.jpeg",
    "car3":"img/spettacoli/istrigo/istri3.jpeg",
     "car4":"img/spettacoli/istrigo/istri4.jpeg",
    "back":"img/spettacoli/istrigo/LOC_sino_istri.png",
-   "sinossi":"Siete stanchi di questa arida, monotona quotidianità? Vi siete svegliati col desiderio di tornare ad un epoca più semplice, più avventurosa, più.. magica? Gli Anciens Prodiges sono lieti di presentare “Le streghe dispettose”, uno spettacolo teatrale comico che affonda un piede nella divertente tradizione clownesca ed un piede nel racconto mitico del “c'era una volta..”, per sognare ancora ad occhi aperti",
+   "sinossi":"Siete stanchi di questa arida, monotona quotidianità? Vi siete svegliati col desiderio di tornare ad un epoca più semplice, più avventurosa, più.. magica? Gli Anciens Prodiges sono lieti di presentare “Un Giullare fra le Streghe”, uno spettacolo teatrale comico che affonda un piede nella divertente tradizione clownesca ed un piede nel racconto mitico del “c'era una volta..”, per sognare ancora ad occhi aperti",
    "descr1":"Uno spettacolo per tutta la famiglia di clownerie teatrale, ambientato in un fantasioso, scalcinato medioevo.",
    "descr2":"Due streghe rivali e pasticcione litigano per dimostrarsi migliori l'una dell'altra, facendosi tremendi dispetti come solo due sorelle possono farsi. ",
    "descr3":"All'arrivo di un artista di strada -ambizioso di imparare le arti magiche delle streghe- le due metteranno da parte le animosità per fare fronte comune.  Succederà di tutto: apparizioni dal futuro, metamorfosi mancate, “ipnotizzazioni”, giocoleria medievale, effetti speciali, evocazioni di demoni famigliari, duelli di stregoneria, circo, morte e miracoli!.. fino ad un finale inaspettato.",
