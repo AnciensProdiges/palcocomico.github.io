@@ -1044,6 +1044,25 @@ var repliche = [
  "annul":"false",
   "causa":"null",
   "spec":""  
+},{    
+  "id":"62",
+  "titolo": "Ridóm en dialèt",
+  "pic": "img/spettacoli/ridom/LOCRidoIN.jpg",
+  "data":"2024,3,2",
+  "giorno": "2",
+  "mese":"marzo",
+  "anno":"2024",
+  "orario":"20.45",
+  "presso":"",
+  "indirizzo":" ",
+  "città":"Flero",
+  "CAP":"",
+  "lat":"45.368044101710936",
+  "long":"10.460173328794845",
+   "link":"ridom",
+ "annul":"false",
+  "causa":"null",
+  "spec":""  
 }
 
 ];     
