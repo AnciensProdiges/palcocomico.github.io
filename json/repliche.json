@@ -1053,10 +1053,10 @@ var repliche = [
   "mese":"marzo",
   "anno":"2024",
   "orario":"20.45",
-  "presso":"",
-  "indirizzo":" ",
-  "città":"Flero",
-  "CAP":"",
+  "presso":"Teatro Le Muse",
+  "indirizzo":"via Aldo Moro,109 A ",
+  "città":"Flero, BS",
+  "CAP":"25020",
   "lat":"45.368044101710936",
   "long":"10.460173328794845",
    "link":"ridom",
@@ -1064,7 +1064,6 @@ var repliche = [
   "causa":"null",
   "spec":""  
 }
-
 ];     
 
 
