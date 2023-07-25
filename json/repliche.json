@@ -1063,7 +1063,26 @@ var repliche = [
  "annul":"false",
   "causa":"null",
   "spec":""  
-}
+},{    
+     "id":"63",
+     "titolo": "Ensèma en alegria",
+    "pic":"img/spettacoli/ensema/LOCEnseIN.png",
+     "data":"2023,7,29",
+     "giorno": "29",
+     "mese":"luglio",
+     "anno":"2023",
+     "orario":"21.00",
+     "presso":"Castello di Portese",
+     "indirizzo":"Via Chiusure",
+     "città":"Portese (San Felice del Benaco), BS",
+     "CAP":"25010",
+     "lat":"45.40225277102175",
+     "long":"10.628262539686343",
+      "link":"ensema",
+    "annul":"false",
+     "causa":"null",
+     "spec":"Sostituzione!"  
+ }
 ];     
 
 
