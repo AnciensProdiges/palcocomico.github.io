@@ -941,7 +941,7 @@ var repliche = [
      "orario":"20.45",
      "presso":"Parco Comunale di Gorlago, Via G.B. Caniana, BG",
      "indirizzo":"<div class='small alert alert-success' role='alert'>(In caso di pioggia, tutti al Teatro Carisma!)</div>",
-     "città":"",
+     "città":"Gorlago",
      "CAP":"24060",
      "lat":"45.40225277102175",
      "long":"10.628262539686343",
@@ -1082,7 +1082,26 @@ var repliche = [
     "annul":"false",
      "causa":"null",
      "spec":"Sostituzione!"  
- }
+ },{    
+  "id":"64",
+  "titolo": "Un giullare fra le streghe",
+  "pic": "img/spettacoli/istrigo/LOCIstriIN.png",
+  "data":"2023,10,31",
+  "giorno": "31",
+  "mese":"ottobre",
+  "anno":"2023",
+  "orario":"16.00",
+  "presso":"Castello",
+  "indirizzo":"via San Carlo Borromeo",
+  "città":"Castiglione delle Stiviere, MN",
+  "CAP":"46043",
+  "lat":"45.368044101710936",
+  "long":"10.460173328794845",
+   "link":"istri",
+ "annul":"false",
+  "causa":"null",
+  "spec":""  
+}
 ];     
 
 
