@@ -17,7 +17,7 @@ var repliche = [
      "link":"ognuno",
      "annul":"false",
      "causa":"null",
-     "spec":"null"
+     "spec":"",
    },{
    	 "id":"2",
      "titolo": "Ognuno gode nelle lenzuola che trova",
@@ -36,7 +36,7 @@ var repliche = [
      "link":"ognuno",
     "annul":"false",
      "causa":"null",
-     "spec":"null"
+     "spec":"",
   },{
    	 "id":"3",
      "titolo": "Ognuno gode nelle lenzuola che trova",
@@ -55,7 +55,7 @@ var repliche = [
      "link":"ognuno",
     "annul":"false",
      "causa":"null",
-     "spec":"null"
+     "spec":"",
   },{
    	 "id":"4",
      "titolo": "Il Viaggio di Ida",
@@ -74,7 +74,7 @@ var repliche = [
      "link":"ida",
     "annul":"false",
      "causa":"null",
-     "spec":"null"
+     "spec":"",
    },{
    	 "id":"5",
      "titolo": "Ognuno gode nelle lenzuola che trova",
@@ -93,7 +93,7 @@ var repliche = [
      "link":"ognuno",
     "annul":"false",
      "causa":"null",
-     "spec":"null"
+     "spec":"",
    },{
    	 "id":"6",
      "titolo": "Ognuno gode nelle lenzuola che trova",
@@ -112,7 +112,7 @@ var repliche = [
            "link":"ognuno",
      "annul":"false",
      "causa":"null",
-     "spec":"festa privata"  
+     "spec":"festa privata",
  },{
    	 "id":"7",
      "titolo": "Il Viaggio di Ida",
@@ -131,7 +131,7 @@ var repliche = [
            "link":"ida",
     "annul":"false",
      "causa":"null",
-     "spec":"null" 
+     "spec":"", 
  },{
    	 "id":"8",
      "titolo": "Ciribiribin Show",
@@ -150,7 +150,7 @@ var repliche = [
      "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null"
+     "spec":"",
  },{
    	 "id":"9",
      "titolo": "Ciribiribin Show",
@@ -169,7 +169,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null"
+     "spec":"",
  },{
    	 "id":"10",
      "titolo": "Ciribiribin Show",
@@ -188,7 +188,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null"
+     "spec":"",
   },{
    	 "id":"11",
      "titolo": "Il viaggio di Ida",
@@ -207,7 +207,7 @@ var repliche = [
            "link":"ida",
     "annul":"false",
      "causa":"null",
-     "spec":"null"
+     "spec":"",
   },{
    	 "id":"12",
      "titolo": "Ciribiribin Show",
@@ -226,7 +226,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null"   
+     "spec":"",  
  },{
    	 "id":"13",
      "titolo": "Ciribiribin Show",
@@ -245,7 +245,7 @@ var repliche = [
       "link":"cirib",
      "annul":"false",
      "causa":"null",
-     "spec":"Intermezzo serata di gala!" 
+     "spec":"Intermezzo serata di gala!", 
  },{
    	 "id":"14",
      "titolo": "Ciribiribin Show",
@@ -264,7 +264,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null"
+     "spec":"",
   },{
    	 "id":"15",
      "titolo": "Il viaggio di Ida",
@@ -283,7 +283,7 @@ var repliche = [
            "link":"ida",
     "annul":"false",
      "causa":"null",
-     "spec":"null"
+     "spec":"",
   },{
    	 "id":"16",
      "titolo": "Ciribiribin Show",
@@ -302,7 +302,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null"
+     "spec":"",
   },{
    	 "id":"17",
      "titolo": "Ciribiribin Show",
@@ -321,7 +321,7 @@ var repliche = [
       "link":"cirib",
      "annul":"false",
      "causa":"null",
-     "spec":"micro-intermezzo!"  
+     "spec":"micro-intermezzo!",  
   },{
    	 "id":"18",
      "titolo": "Ciribiribin Show",
@@ -340,7 +340,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null" 
+     "spec":"null" ,
  },{
    	 "id":"19",
      "titolo": "Ciribiribin Show",
@@ -359,7 +359,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null" 
+     "spec":"null", 
  },{
    	 "id":"20",
      "titolo": "Ciribiribin Show",
@@ -378,7 +378,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null" 
+     "spec":"null", 
   },{
    	 "id":"21",
      "titolo": "Ciribiribin Show",
@@ -397,7 +397,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null"  
+     "spec":"null",  
  },{
    	 "id":"22",
      "titolo": "Ciribiribin Show",
@@ -416,7 +416,7 @@ var repliche = [
       "link":"cirib",
      "annul":"false",
      "causa":"null",
-     "spec":"Nel programma `Us delle As´" 
+     "spec":"Nel programma `Us delle As´", 
 },{
    	 "id":"23",
      "titolo": "Il viaggio di Ida",
@@ -435,7 +435,7 @@ var repliche = [
       "link":"ida",
     "annul":"false",
      "causa":"null",
-     "spec":"null"  
+     "spec":"" , 
 },{
    	 "id":"24",
      "titolo": "Ciribiribin Show",
@@ -454,7 +454,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null"    
+     "spec":"",    
  },{
    	 "id":"25",
      "titolo": "Ciribiribin Show",
@@ -473,7 +473,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null" 
+     "spec":"", 
  },{
    	 "id":"26",
      "titolo": "Ciribiribin Show",
@@ -492,7 +492,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null"  
+     "spec":"",  
  },{
    	 "id":"27",
      "titolo": "Ciribiribin Show",
@@ -511,7 +511,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null"  
+     "spec":"",  
  },{
    	 "id":"28",
      "titolo": "Ciribiribin Show",
@@ -530,7 +530,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":"null"  
+     "spec":"",  
  },{
  	 "id":"29",
      "titolo": "Ciribiribin Show Promo",
@@ -549,7 +549,7 @@ var repliche = [
       "link":"cirib",
      "annul":"true",
      "causa":"COVID19",
-     "spec":"null"   
+     "spec":"",   
  },{
  	 "id":"30",
      "titolo": "Ciribiribin Show Promo",
@@ -568,7 +568,7 @@ var repliche = [
       "link":"cirib",
      "annul":"true",
      "causa":"COVID19",
-     "spec":"null"  
+     "spec":"",  
  },{	
    	 "id":"31",
      "titolo": "Ridóm en dialèt",
@@ -587,7 +587,7 @@ var repliche = [
       "link":"ridom",
     "annul":"false",
      "causa":"null",
-     "spec":"null" 
+     "spec":"", 
  },{	
    	 "id":"32",
      "titolo": "Ridóm en dialèt",
@@ -606,7 +606,7 @@ var repliche = [
       "link":"ridom",
     "annul":"false",
      "causa":"null",
-     "spec":" "  
+     "spec":"",  
  },{    
      "id":"33",
      "titolo": "Ridóm en dialèt",
@@ -625,7 +625,7 @@ var repliche = [
       "link":"ridom",
     "annul":"false",
      "causa":"null",
-     "spec":" "  
+     "spec":"",  
  },{    
      "id":"34",
      "titolo": "Ridóm en dialèt",
@@ -644,7 +644,7 @@ var repliche = [
       "link":"ridom",
     "annul":"false",
      "causa":"null",
-     "spec":" "  
+     "spec":"",  
  },{    
      "id":"35",
      "titolo": "Ridóm en dialèt",
@@ -663,7 +663,7 @@ var repliche = [
       "link":"ridom",
     "annul":"false",
      "causa":"null",
-     "spec":" "  
+     "spec":"",  
  },{    
      "id":"36",
      "titolo": "Istrigonia",
@@ -682,7 +682,7 @@ var repliche = [
       "link":"istri",
     "annul":"false",
      "causa":"null",
-     "spec":"debutto!"  
+     "spec":"debutto!",  
  },{    
      "id":"37",
      "titolo": "Istrigonia",
@@ -701,7 +701,7 @@ var repliche = [
       "link":"istri",
     "annul":"false",
      "causa":"null",
-     "spec":""  
+     "spec":"",  
  },{    
      "id":"38",
  	"titolo": "Ridóm en dialèt",
@@ -720,7 +720,7 @@ var repliche = [
       "link":"ridom",
     "annul":"false",
      "causa":"null",
-     "spec":" "  
+     "spec":"",  
  },{    
      "id":"39",
  	"titolo": "Ridóm en dialèt",
@@ -739,7 +739,7 @@ var repliche = [
       "link":"ridom",
     "annul":"false",
      "causa":"null",
-     "spec":" " 
+     "spec":" ", 
   },{
      "id":"40",
      "titolo": "Ciribiribin Show",
@@ -758,7 +758,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":""    
+     "spec":"",    
  },{
      "id":"41",
      "titolo": "Ensèma en alegria",
@@ -777,7 +777,7 @@ var repliche = [
       "link":"ensema",
     "annul":"false",
      "causa":"null",
-     "spec":"debutto!"
+     "spec":"debutto!",
  },{
      "id":"42",
      "titolo": "Ridóm en dialèt",
@@ -796,7 +796,7 @@ var repliche = [
       "link":"ridom",
     "annul":"false",
      "causa":"null",
-     "spec":""
+     "spec":"",
  },{
      "id":"43",
      "titolo": "Ridóm en dialèt",
@@ -815,7 +815,7 @@ var repliche = [
       "link":"ridom",
     "annul":"false",
      "causa":"null",
-     "spec":""
+     "spec":"",
  },{    
      "id":"44",
      "titolo": "Ensèma en alegria",
@@ -834,7 +834,7 @@ var repliche = [
       "link":"ensema",
     "annul":"false",
      "causa":"null",
-     "spec":""  
+     "spec":"",  
  },{    
      "id":"45",
      "titolo": "Istrigonia",
@@ -853,7 +853,7 @@ var repliche = [
       "link":"istri",
     "annul":"false",
      "causa":"null",
-     "spec":"data cambiata!"  
+     "spec":"data cambiata!",  
  },{    
      "id":"46",
      "titolo": "Ridóm en dialèt",
@@ -872,7 +872,7 @@ var repliche = [
       "link":"ridom",
     "annul":"false",
      "causa":"null",
-     "spec":""  
+     "spec":"",  
  },{
      "id":"47",
      "titolo": "Ciribiribin Show",
@@ -891,7 +891,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":""    
+     "spec":"" ,   
  },{
      "id":"48",
      "titolo": "Tre dé da pret",
@@ -910,7 +910,7 @@ var repliche = [
       "link":"riultela",
     "annul":"false",
      "causa":"null",
-     "spec":""    
+     "spec":"",    
  },{    
      "id":"50",
      "titolo": "Ensèma en alegria",
@@ -929,7 +929,7 @@ var repliche = [
       "link":"ensema",
     "annul":"false",
      "causa":"null",
-     "spec":""  
+     "spec":"",  
  },{    
      "id":"52",
      "titolo": "Ensèma en alegria",
@@ -948,7 +948,7 @@ var repliche = [
       "link":"ensema",
     "annul":"false",
      "causa":"null",
-     "spec":""  
+     "spec":"",  
  },{
      "id":"54",
      "titolo": "Ciribiribin Show",
@@ -967,7 +967,7 @@ var repliche = [
       "link":"cirib",
     "annul":"false",
      "causa":"null",
-     "spec":""    
+     "spec":"" ,   
  },{    
      "id":"58",
      "titolo": "Ridóm en dialèt",
@@ -986,7 +986,7 @@ var repliche = [
       "link":"ridom",
     "annul":"false",
      "causa":"null",
-     "spec":""  
+     "spec":"",  
  },{    
      "id":"59",
      "titolo": "Ensèma en alegria",
@@ -1005,7 +1005,7 @@ var repliche = [
       "link":"ensema",
     "annul":"false",
      "causa":"null",
-     "spec":""  
+     "spec":"",  
  },{    
      "id":"60",
      "titolo": "Ensèma en alegria",
@@ -1024,7 +1024,7 @@ var repliche = [
       "link":"ensema",
     "annul":"false",
      "causa":"null",
-     "spec":""  
+     "spec":"",  
  },{    
   "id":"61",
   "titolo": "Il Viaggio di Ida",
@@ -1043,7 +1043,7 @@ var repliche = [
    "link":"ida",
  "annul":"false",
   "causa":"null",
-  "spec":""  
+  "spec":"",  
 },{    
   "id":"62",
   "titolo": "Ridóm en dialèt",
@@ -1062,7 +1062,7 @@ var repliche = [
    "link":"ridom",
  "annul":"false",
   "causa":"null",
-  "spec":""  
+  "spec":"",  
 },{    
      "id":"63",
      "titolo": "Ensèma en alegria",
@@ -1081,7 +1081,7 @@ var repliche = [
       "link":"ensema",
     "annul":"false",
      "causa":"null",
-     "spec":"Sostituzione!"  
+     "spec":"Sostituzione!",  
  },{    
   "id":"64",
   "titolo": "Un giullare fra le streghe",
@@ -1100,7 +1100,26 @@ var repliche = [
    "link":"istri",
  "annul":"false",
   "causa":"null",
-  "spec":""  
+  "spec":"",  
+},{    
+  "id":"65",
+  "titolo": "Ensèma en alegria",
+ "pic":"img/spettacoli/ensema/LOCEnseIN.png",
+  "data":"2024,1,14",
+  "giorno": "14",
+  "mese":"gennaio",
+  "anno":"2024",
+  "orario":"16.00",
+  "presso":"Pieve di Urago Mella",
+  "indirizzo":"Via della Chiesa,136",
+  "città":"Urago Mella, BS",
+  "CAP":"251270",
+  "lat":"45.40225277102175",
+  "long":"10.628262539686343",
+  "link":"ensema",
+ "annul":"false",
+  "causa":"null",
+  "spec":"",  
 }
 ];     
 

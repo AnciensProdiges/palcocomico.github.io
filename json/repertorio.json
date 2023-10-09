@@ -96,7 +96,7 @@ var repertorio = [
     "tecnico": "Enzo Vicari",
     "colore": "darkorange",
     "speciale": "<dt style='color:darkorange;'>Fotografia</dt><dd> Adolfo Civolani</dd>",
-    "dispo": "",
+    "dispo": "<p class='badge rounded-pill bg-danger adesivo2'>non disponibile</p>",
     "citaz": "<span style='font-style:italic'>“Babette:</span> Molto bene. Ho deciso di esibirmi nel mio cavallo di battaglia. Ho bisogno di qualche minuto per prepararmi adegeguatamente: voi due non fate assolutamente niente, capito? Fermi, non mi combinate altri guai! Ora vado a concentrarmi.<br><span style='font-style:italic'>Ferdi:</span> è andata a concentrarsi, come il pomodoro!<br><span style='font-style:italic'>Achi:</span> come il doppiobrodo!”</p></q>"
   },
   {
