@@ -1139,6 +1139,25 @@ var repliche = [
  "annul":"false",
   "causa":"null",
   "spec":"",  
+},{    
+  "id":"67",
+  "titolo": "Ridóm en dialèt",
+  "pic": "img/spettacoli/ridom/LOCRidoIN.jpg",
+  "data":"2024,6,19",
+  "giorno": "19",
+  "mese":"luglio",
+  "anno":"2024",
+  "orario":"20.30",
+  "presso":"Castello di Portese",
+  "indirizzo":"Via Chiusure",
+  "città":"Portese (San Felice del Benaco), BS",
+  "CAP":"25010",
+  "lat":"45.40225277102175",
+  "long":"10.628262539686343",
+  "link":"ridom",
+ "annul":"false",
+  "causa":"null",
+  "spec":"",  
 }
 ];     
 
